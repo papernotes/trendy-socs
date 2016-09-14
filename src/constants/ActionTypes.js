@@ -1,0 +1,4 @@
+export const SET_SEARCH_QUERY = 'SET_SEARCH_QUERY'
+export const SET_FLAVOR_TEXT = 'SET_FLAVOR_TEXT'
+export const SET_RESULT = 'SET_RESULT'
+export const SET_LOADING = 'SET_LOADING'

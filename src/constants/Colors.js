@@ -1,0 +1,5 @@
+export const dark = '#446491'
+export const base = '#4B89AC'
+export const complement = '#ACE6F6'
+export const highlight = '#E4FCF9'
+export const link = '#0B3058'
